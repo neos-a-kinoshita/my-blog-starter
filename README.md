@@ -17,9 +17,5 @@ npm start
 ## Build
 
 ```
-npm build
+npm run build
 ```
-
-## Publish
-
-`git push`で[poor-rock.surge.sh](https://poor-rock.surge.sh/)に公開します。
