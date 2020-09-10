@@ -58,7 +58,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "surge --project public/ --domain poor-rock.surge.sh"
+    "deploy": "./scripts/deploy.sh"
   },
   "git": {
     "scripts": {
